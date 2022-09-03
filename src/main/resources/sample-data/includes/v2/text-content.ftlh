@@ -1,0 +1,4 @@
+<p> Poštovani, </p>
+<p> Završili smo validaciju vaših proizvoda. Odobreni proizvodi nalaze se u kategoriji Katalog Proizvoda. </p>
+<p> Zbog neispravnih ili nepotpunih podataka neki od proizvoda nisu odobreni. Spisak tih proizvoda se nalazi u nastavku ove poruke. </p>
+<p style="margin-bottom: 0;"> Imate pitanja?<br/> Pozovite nas na <a href="tel:0800000111" class="text-link" style="color: #2D2926; text-decoration: none; font-weight: 600;">0800 000 111</a> ili nam pišite na <a href="mailto:podrska@ananas.rs" class="text-link" style="color: #2D2926; text-decoration: none; font-weight: 600;">podrska@ananas.rs</a> obaveštenja o aktuelnim ponudama, sniženjima i akcijama. </p>
